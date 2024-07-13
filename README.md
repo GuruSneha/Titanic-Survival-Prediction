@@ -1,0 +1,1 @@
+The Titanic Survival Prediction project aims to analyze and predict the survival of passengers aboard the RMS Titanic using machine learning techniques. This project utilizes the Titanic dataset, which includes various features such as passenger age, gender, ticket class, and other relevant information.
